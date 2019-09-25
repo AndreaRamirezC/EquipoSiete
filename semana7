@@ -61,7 +61,7 @@ https://templatemo.com/tm-507-victory
             <div class="row">
                 <div class="col-md-12">
                     <h1>Nuestros avances semanales</h1>
-                    <p>Descripción <strong>Descripcion</strong> Descripcion</p>
+                    <p>Avances de cada semana en base al sílabo del curso.</p>
                 </div>
             </div>
         </div>
@@ -69,10 +69,29 @@ https://templatemo.com/tm-507-victory
 <section class="blog-page">
         <div class="container">
             <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                    
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="blog-item">
+                        <img src="ima/im17.jpg" alt="">
+                        <div class="date">18 Sep 2019</div>
+                           <div class="down-content">
+                              <h4>Semana 4</h4>
+                                 <h2> SUBTITULO</h2>
+                                 <h5> SUB SUB TITULO</h5>
+                                 <p>Figura 1. </p>
+                        
+                                
+                            
+                        
+                            
+              
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </div>
+ </section>
               </div>
-              </div>
+           </div>
         </div>
  </section>
  </body>
